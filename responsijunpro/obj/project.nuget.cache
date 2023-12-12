@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydnQ43RNbHJwHx3J1b9zj1lFDp3jF4vvcebUxR5dTnzSH7GbLBgEeDmKnnz8XzguD3+6Jt8AbEt2jvuT1XTAGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdaniyalk\\Documents\\responsijunpro\\responsijunpro\\responsijunpro\\responsijunpro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdaniyalk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mdaniyalk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mdaniyalk\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\mdaniyalk\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\mdaniyalk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mdaniyalk\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\mdaniyalk\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
